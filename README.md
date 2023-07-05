@@ -8,12 +8,18 @@
 
 - Blast
   
+  ![Blast disease image](100039.jpg)
 - Dead Heart
-  
+
+  ![Dead heart disease image](100063.jpg)
 - Hispa
-  
+
+  ![Hispa disease image](100478.jpg)
 - Normal
-  
+
+  ![Normal leaf](100018.jpg)
 - Tungro
+
+  ![Tungro disease image](100056.jpg)
 
 ##### In conclusion we identified that Neural Network model VGG16 is more accurate than other models
