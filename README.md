@@ -1,8 +1,8 @@
 # Paddy Disease Classification
 
-#### Image Classification project to compare the accuracy of different machine learning models
+### Image Classification project to compare the accuracy of different machine learning models
 
-#### In this project we compare different types of machine learning models such as Neural Networks, K Nearest Neighbour, Random Forest, and Naive Bayes classifiers.
+#### In this project we compare different types of machine learning models such as Neural Networks, K Nearest Neighbour, Random Forest, and Naive Bayes classifiers. Dataset link we used: [Paddy Doctor](https://www.kaggle.com/competitions/paddy-disease-classification/data)
 
 ##### We compare 5 types of paddy diseases
 
