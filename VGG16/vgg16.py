@@ -12,7 +12,7 @@ import cv2
 import pathlib 
 
 # Loading the data
-path = 'paddy-disease-classification/train_images/'
+path = '../paddy-disease-classification/train_images/'
 dataset=pathlib.Path(path)
 images=list(dataset.glob('*/*.jpg'))
 
