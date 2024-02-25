@@ -61,7 +61,7 @@ nb.fit(x_train,y_train)
 y_pred_nb=nb.predict(x_test)
 
 print(classification_report(y_pred_nb,y_test))
-# Create a random forest model
+# Create a Bayesian  model
 nb = GaussianNB()
 
 # Fit the model to the training data
